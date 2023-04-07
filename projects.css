@@ -1,0 +1,52 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:italic;
+    background-color:black;
+}
+h2{
+    text-align:center;
+    margin-top:20px;
+    color:red;
+    font-weight:bold;
+    padding:20px 0px;
+}
+.project1{
+    width:auto;
+    height:auto;
+    border:3px solid orange;
+    color:white;
+    padding:10px 0;
+    
+    
+}
+.project1 h3{
+    color:red;
+    font-weight:bold;
+    
+}
+.project1 p{
+    padding:10px 0px;
+    color:silver;
+}
+.project2{
+    width:auto;
+    height:auto;
+    border:3px solid orange;
+    color:white;
+    padding:10px 0;
+    
+    
+}
+.project2 h3{
+    color:red;
+    font-weight:bold;
+    
+}
+.project2 p{
+    padding:10px 0px;
+    color:silver;
+}
+
+
+

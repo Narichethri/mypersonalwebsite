@@ -1,0 +1,29 @@
+*{
+    margin:1px;
+    padding:0px;
+    font-family:'josefin sans',sans-serif;
+    background-color:black;
+    padding-bottom:2%;
+    
+}
+ol li{
+    padding:5px 0px;
+    margin-left:10%;
+    color:red;
+    font-weight:bold;
+    margin-top:5%;
+
+}
+p{
+    margin-left:15%;
+    padding:2px 0%;
+    color:silver;
+}
+h4{
+    color:lightyellow;
+    padding:1px 0px;
+    margin-left:12%;
+}
+
+
+    
